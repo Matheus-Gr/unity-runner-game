@@ -1,0 +1,11 @@
+Model Information:
+* title:	Tortoise (Non-commercial) 4K
+* source:	https://sketchfab.com/3d-models/tortoise-non-commercial-4k-b70b5012638f43f2867c360e9c043697
+* author:	Nyilonelycompany (https://sketchfab.com/Nyilonelycompany)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Tortoise (Non-commercial) 4K" (https://sketchfab.com/3d-models/tortoise-non-commercial-4k-b70b5012638f43f2867c360e9c043697) by Nyilonelycompany (https://sketchfab.com/Nyilonelycompany) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

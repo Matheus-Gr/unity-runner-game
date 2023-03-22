@@ -1,0 +1,11 @@
+Model Information:
+* title:	Antique Key
+* source:	https://sketchfab.com/3d-models/antique-key-64a026bc4c4c4e1b865193d8f85ae586
+* author:	Yokarra (https://sketchfab.com/yokara)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Antique Key" (https://sketchfab.com/3d-models/antique-key-64a026bc4c4c4e1b865193d8f85ae586) by Yokarra (https://sketchfab.com/yokara) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
